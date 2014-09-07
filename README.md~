@@ -17,11 +17,11 @@ pdf2ref
 
 関連情報
 --------
-### PDFからテキストを抽出する
+### Python 3ではまったこと
 1. [リンク1](http://blog.mwsoft.jp/article/93796981.html)
  
-###  scholar.py
-2. [リンク2](https://github.com/ckreibich/scholar.py)
+### 8.1. datetime — 基本的な日付型および時間型(原文)
+2. [リンク2](http://docs.python.jp/2/library/datetime.html)
 
 ライセンス
 ----------
